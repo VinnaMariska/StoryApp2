@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/bg_button.xml" value="0.108" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/bg_button_disable.xml" value="0.1505" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/bg_button_getstarted.xml" value="0.14" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/border_corner_10.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/ic_add.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/ic_baseline_double_arrow_24.xml" value="0.1" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/ic_baseline_photo_24.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-v24/ic_back.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-v24/ic_logout_24.xml" value="0.144" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable-v24/ic_switch.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable/edit_text_style.xml" value="0.144" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.188" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/drawable/ic_dicoding_background.xml" value="0.168" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/font/font.xml" value="0.19322916666666667" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_add_story.xml" value="0.16666666666666666" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_camera.xml" value="0.1796875" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_detail_story.xml" value="0.16666666666666666" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_landing.xml" value="0.22" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_maps.xml" value="0.1640625" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/item_loading.xml" value="0.10810810810810811" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/layout/item_story.xml" value="0.17552083333333332" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/menu/map_options.xml" value="0.1796875" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/menu/menu_home.xml" value="0.1796875" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/menu/option_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_dicoding.xml" value="0.168" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_dicoding_round.xml" value="0.173" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-mdpi/ic_launcher.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-xhdpi/ic_launcher.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.xml" value="0.131" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.xml" value="0.168" />
+        <entry key="..\:/Tegar/Story App Sub 1/StoryApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.xml" value="0.168" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/bg_button.xml" value="0.1575" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/drawable-nodpi/bg_button_getstarted.xml" value="0.1865" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/drawable-v24/ic_close.xml" value="0.188" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/drawable-v24/ic_eye.xml" value="0.173" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/drawable-v24/ic_setting.xml" value="0.1" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/drawable/ic_map.xml" value="0.1" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_add_story.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_camera.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_landing.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_register.xml" value="0.1640625" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/layout/item_story.xml" value="0.3333333333333333" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/menu/menu_home.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/menu/menu_maps.xml" value="0.1796875" />
+        <entry key="..\:/navin/Story App Sub 1/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_dicoding_round.xml" value="0.173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

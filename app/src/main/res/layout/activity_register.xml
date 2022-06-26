@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:paddingStart="40dp"
+  android:paddingEnd="40dp"
+  android:id="@+id/parentRelative"
+  tools:context=".ui.register.RegisterActivity">
+
+
+  <ProgressBar
+    android:id="@+id/progress_bar"
+    style="?android:attr/progressBarStyle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:visibility="gone"
+    tools:visibility="visible" />
+
+  <LinearLayout
+      android:layout_width="371dp"
+      android:layout_height="668dp"
+      android:layout_centerInParent="true"
+      android:orientation="vertical"
+      tools:ignore="UselessParent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="218dp"
+        android:layout_gravity="center"
+        android:src="@drawable/register" />
+
+    <TextView
+        android:id="@+id/textReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        style="@style/Header"
+        android:text="@string/register_your_account"
+        android:textSize="30sp"/>
+
+    <com.navin.storyapp.customview.EtUsername
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        style="@style/StyleEt"
+        android:hint="@string/input_name" />
+
+    <com.navin.storyapp.customview.EtEmail
+        android:id="@+id/et_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        style="@style/StyleEt"
+        android:hint="@string/input_email"
+        android:inputType="textEmailAddress" />
+
+    <com.navin.storyapp.customview.EtPass
+        android:id="@+id/et_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginTop="16dp"
+        style="@style/StyleEt"
+        android:hint="@string/input_password"
+        android:inputType="textPassword" />
+
+    <com.navin.storyapp.customview.BtnRegister
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        style="@style/StyleBtn"
+        android:background="@drawable/bg_button"
+        android:text="@string/register" />
+
+    <TextView
+        android:id="@+id/et_signin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/have_account"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+  </LinearLayout>
+
+</RelativeLayout>

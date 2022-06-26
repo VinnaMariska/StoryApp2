@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Landing Page
+    <string name="text_btn_get_started">Get Started</string>
+    <string name="content_text_title_landing">Selamat Datang di StoryApp</string>
+    <string name="content_text_desc_landing">Aplikasi ini dapat membagikan perasaan Anda dan membagikan aktivitas Anda dengan orang lain</string>
+
+    //Login Page
+    <string name="login_with_your_account">Silahkan login dengan akun anda</string>
+    <string name="input_email">Masukkan email anda disini</string>
+    <string name="input_password">Masukkan Password anda disini</string>
+    <string name="did_t_have_account">belum punya akun ?</string>
+    <string name="login1">Login</string>
+    <string name="fill_all">"Harap isi semua "</string>
+
+    //Register Page
+    <string name="register">Register</string>
+    <string name="register_your_account">"Silahkan, registrasi Akun anda disini "</string>
+    <string name="input_name">Masukkan Username anda disini</string>
+    <string name="have_account">Sudah punya akun ?</string>
+
+    /Camera Page
+    <string name="content_desc_switch_camera">Putar Kamera</string>
+    <string name="content_desc_icon_back">Tombol Balik</string>
+    <string name="content_desc_btn_capture">Tombol Camera</string>
+
+    //Add Story Page
+    <string name="new_story">Stroy Baru</string>
+    <string name="image_preview">image preview</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Posting</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="choose_picture">Pilih Gambar</string>
+
+    //Option Page
+    <string name="Setting">Setting</string>
+    <string name="languange">Languange</string>
+    <string name="logout">Logout</string>
+    <string name="image_story">Image Story</string>
+
+    //Confirmation
+    <string name="title_info">Informasi</string>
+    <string name="message_login_success">Login sukses</string>
+    <string name="title_warning">Peringatan</string>
+    <string name="message_emailpass_invalid">Kata sandi atau email Anda tidak valid</string>
+    <string name="ok_">Oke</string>
+    <string name="continue_">lanjut</string>
+    <string name="message_conection">Koneksi anda buruk</string>
+    <string name="message_logout">Apa anda yakin ingin keluar ?</string>
+    <string name="yes_">Ya</string>
+    <string name="cancel_">Batal</string>
+    <string name="message_photo">Foto wajib diisi</string>
+    <string name="message_desc">Caption wajib diisi</string>
+    <string name="message_upload">Apakah Anda yakin ingin mengunggah cerita ini?</string>
+    <string name="message_story">Sukses posting cerita</string>
+
+    //Permission Camera
+    <string name="title_account_already_registered">Akun Sudah Terdaftar</string>
+    <string name="title_permission_denied">Izin ditolak</string>
+    <string name="title_photo_needed">Foto dibutuhkan</string>
+    <string name="title_story_uploaded">Cerita diunggah</string>
+
+    //Confirmation
+    <string name="name_empty">Masukkan nama</string>
+    <string name="email_empty">Masukkan Email</string>
+    <string name="password_empty">Masukkan Password</string>
+    <string name="email_not_valid">Format email tidak valid</string>
+    <string name="password_not_valid">Password harus 6 atau lebih karakter</string>
+    <string name="description_empty">Harap isi deskripsi terlebih dahulu</string>
+    <string name="desc_logo">Logo Splash</string>
+    <string name="message_registersuccess">Register Success</string>
+    <string name="message_already_registered">Your account already registed</string>
+    <string name="message_camera_denied">You must permission to open camera</string>
+    <string name="created_add">Created at %1$s,</string>
+    <string name="load_maps">Load Maps</string>
+    <string name="Maps">Maps</string>
+    <string name="maps_story">Maps Story</string>
+    <string name="maps_success">Maps Success</string>
+    <string name="location_not_found">Location not found</string>
+</resources>

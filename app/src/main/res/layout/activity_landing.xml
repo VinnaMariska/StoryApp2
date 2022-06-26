@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.splash.LandingActivity">
+
+    <ImageView
+        android:id="@+id/illustration"
+        android:layout_width="294dp"
+        android:layout_height="381dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="16dp"
+        android:src="@drawable/baca_buku"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/title_landing"
+        style="@style/Header"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginRight="16dp"
+        android:text="@string/content_text_title_landing"
+        android:textAlignment="center"
+        android:textSize="23sp"
+        app:layout_constraintEnd_toEndOf="@id/illustration"
+        app:layout_constraintStart_toStartOf="@id/illustration"
+        app:layout_constraintTop_toBottomOf="@id/illustration" />
+
+    <TextView
+        android:id="@+id/desc_landing"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginRight="16dp"
+        style="@style/StyleEt"
+        android:text="@string/content_text_desc_landing"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@id/title_landing"
+        app:layout_constraintStart_toStartOf="@id/title_landing"
+        app:layout_constraintTop_toBottomOf="@id/title_landing" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_get_started"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/bg_button_getstarted"
+        android:drawableEnd="@drawable/ic_baseline_double_arrow_24"
+        android:paddingStart="36dp"
+        android:paddingTop="12dp"
+        android:paddingEnd="36dp"
+        android:paddingBottom="12dp"
+        android:text="@string/text_btn_get_started"
+        android:textAllCaps="false"
+        style="@style/StyleBtn"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

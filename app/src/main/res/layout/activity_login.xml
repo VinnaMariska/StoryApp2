@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:id="@+id/parentRelative"
+  android:paddingStart="40dp"
+  android:paddingEnd="40dp"
+  tools:context=".ui.login.LoginActivity">
+  
+
+  <ProgressBar
+    android:id="@+id/progress_bar"
+    style="?android:attr/progressBarStyle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:visibility="gone"
+    tools:visibility="visible" />
+
+  <LinearLayout
+      android:layout_width="342dp"
+      android:layout_height="616dp"
+      android:layout_centerInParent="true"
+      android:orientation="vertical"
+      tools:ignore="UselessParent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="244dp"
+        android:layout_height="202dp"
+        android:layout_gravity="center"
+        android:src="@drawable/login" />
+
+    <TextView
+        android:id="@+id/textLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/login_with_your_account"
+        android:textSize="25sp"
+        style="@style/Header"
+        android:textStyle="bold" />
+
+    <com.navin.storyapp.customview.EtEmail
+        android:id="@+id/et_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="@string/input_email"
+        android:minHeight="48dp"
+        style="@style/StyleEt"
+        android:paddingStart="16sp"
+        android:paddingEnd="16sp" />
+
+    <com.navin.storyapp.customview.EtPass
+        android:id="@+id/et_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginTop="16dp"
+        android:hint="@string/input_password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:paddingStart="16sp"
+        style="@style/StyleEt"
+        android:paddingEnd="16sp"
+        app:passwordToggleEnabled="true" />
+
+    <com.example.storynavin.customview.BtnLogin
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        style="@style/StyleBtn"
+        android:background="@drawable/bg_button"
+        android:text="Login" />
+
+    <TextView
+        android:id="@+id/et_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/did_t_have_account"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+  </LinearLayout>
+
+</RelativeLayout>
